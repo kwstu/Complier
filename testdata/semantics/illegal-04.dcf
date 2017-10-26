@@ -1,0 +1,7 @@
+class Program {
+  int a[-20];	// bad array size
+  void hello(){
+  }
+  void main() {
+  }							
+}
